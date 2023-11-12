@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Danhba</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone:</string>
+    <string name="phone_number">phone_number</string>
+    <string name="gmail">Gmail:</string>
+    <string name="Gmail">gmail</string>
+    <string name="t">T</string>
+    <string name="title">Title</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="send_email">Send email</string>
+    <string name="call">Call</string>
+</resources>

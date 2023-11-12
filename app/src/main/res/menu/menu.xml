@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/action_call"
+            android:title="@string/call"
+    />
+    <item
+            android:id="@+id/action_sendSMS"
+            android:title="@string/send_sms"
+    />
+    <item
+            android:id="@+id/action_sendEmail"
+            android:title="@string/send_email"
+    />
+</menu>
